@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 I’m currently pursuing **3rd Year Software Engineering**
+- 🔭 I’m currently pursuing **Final Year Software Engineering**
 - 🌱 I’m currently learning **Full Stack Development**
 - 📫 Reach me at: **OshadiJayananda@gmail.com**
 
