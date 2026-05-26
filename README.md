@@ -38,10 +38,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OshadiJayananda&layout=compact&theme=default" alt="Top Langs" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OshadiJayananda&layout=compact&theme=default" alt="Top Langs" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OshadiJayananda&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=OshadiJayananda&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 ---
