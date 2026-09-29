@@ -12,7 +12,7 @@
 ---
 
 - 🔭 **Graduated Software Engineering**
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 **Full Stack Development**
 - 📫 Reach me at: **OshadiJayananda@gmail.com**
 
 ---
